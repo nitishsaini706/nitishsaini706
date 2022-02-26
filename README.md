@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nitish Saini</h1>
-<h3 align="center">A passionate frontend developer from India , Also interested in Web3js ,Falling in love with js for no reason , excited to learn CSS and build stuff</h3>
+<h3 align="center">A passionate Frontend developer from India , Also interested in Web3js ,Falling in love with JS for no reason , excited to learn CSS and build stuff</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitisahsaini706&label=Profile%20views&color=0e75b6&style=flat" alt="nitisahsaini706" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitisahsaini706" alt="nitisahsaini706" /></a> </p>
 
 - 🔭 I’m currently working on **Front End Development **
 
-- 🌱 I’m currently learning **Javascript , DSA , CSS , reactjs**
+- 🌱 I’m currently learning **Javascript , DSA , CSS , Reactjs**
 
-- 👯 I’m looking to collaborate on **any web dev related project**
+- 👯 I’m looking to collaborate on **Any web dev related project**
 
 - 🤝 I’m looking for help with **Front End and Web3js**
 
-- 💬 Ask me about **react , gaming ,fitness , development**
+- 💬 Ask me about **React , Gaming ,Fitness , Development**
 
 - 📫 How to reach me **nitishsaini706@gmail.com**
 
-- ⚡ Fun fact **I think i'm a philosopher**
+- ⚡ Fun fact **I think I'm a philosopher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
