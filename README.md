@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Front End Development **
+- 🔭 I’m currently working on **Front End Development**
 
 - 🌱 I’m currently learning **Javascript , DSA , CSS , Reactjs**
 
